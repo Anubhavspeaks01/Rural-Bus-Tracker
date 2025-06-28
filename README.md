@@ -1,3 +1,5 @@
+[Click here to view the live project](https://ruralbusin.netlify.app/)
+
 # 🚍 Rural Bus Tracker – Real-Time Bus Tracking for Rural Areas
 
 A web and mobile application designed to help rural populations track local buses in real time, minimizing wait times and uncertainty. This solution uses GPS-enabled devices on buses to provide live location updates, allowing users to easily plan their travel using a simple and intuitive interface.
