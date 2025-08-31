@@ -24,7 +24,7 @@ A web and mobile application designed to help rural populations track local buse
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB or Supabase
 - **Deployment**: Netlify (Frontend), Render or Vercel (Backend)
-- **AI/Automation**: Created with [Bolt.new](https://bolt.new)
+- **AI/Automation**: 
 
 ---
 
